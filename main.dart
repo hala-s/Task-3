@@ -3,6 +3,7 @@ import 'staff.dart';
 import 'student.dart';
 import 'staff.dart';
 
+
 void main() {
   var student1 = new Student("Sara", "Lariano", "prog1", 2, 220.6);
 
